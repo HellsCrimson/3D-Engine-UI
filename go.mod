@@ -9,7 +9,7 @@ require (
 )
 
 require (
-	github.com/AllenDang/cimgui-go v1.3.0 // indirect
+	github.com/AllenDang/cimgui-go v1.2.0 // indirect
 	github.com/AllenDang/go-findfont v0.0.0-20200702051237-9f180485aeb8 // indirect
 	github.com/faiface/mainthread v0.0.0-20171120011319-8b78f0a41ae3 // indirect
 	github.com/gucio321/glm-go v0.0.0-20241029220517-e1b5a3e011c8 // indirect
